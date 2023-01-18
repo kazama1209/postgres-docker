@@ -1,4 +1,4 @@
-# postgres-docker
+# postgresql-docker
 
 ```
 $ docker-compose up -d
